@@ -1,3 +1,4 @@
+// FlatMoney v2.0-ATUALIZADO - Interface otimizada com suporte a analytics
 
 import React, { useState, useEffect } from 'react';
 import { MonthData } from './types';
